@@ -7,5 +7,6 @@ public class controller {
         System.out.println("hot-fix");
         System.out.println("master----now");
         System.out.println("hot-fix---now");
+        System.out.println("idea----push");
     }
 }
